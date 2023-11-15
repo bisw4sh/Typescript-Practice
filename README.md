@@ -25,11 +25,14 @@ pnpm tsc
 ```
 
 This will compile the TypeScript files (.ts) in the project and generate the corresponding JavaScript files (.js) in the same directory.
+<hr>
 
 ### Project Structure
 This repository is organized as follows:
 
 -${number}{Directory-Name} has both the TypeScript file and corresponding JavaScript source files
+
+<hr>
 
 ### Resources used to learn
 1. [github repo](https://github.com/basarat/typescript-book) && [site](https://basarat.gitbook.io/typescript/)
