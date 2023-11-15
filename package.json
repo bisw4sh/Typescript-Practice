@@ -2,14 +2,13 @@
   "name": "Typescript-Practice",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "tsc": "tsc",
     "build": "tsc -p .",
     "build:watch": "pnpm run build -- -w"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["typescript"],
+  "author": "bisw4sh",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.2.2"

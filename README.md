@@ -24,14 +24,14 @@ pnpm install
 pnpm tsc
 ```
 
-This will compile the TypeScript files (.ts) in the project and generate the corresponding JavaScript files (.js) in the output directory.
+This will compile the TypeScript files (.ts) in the project and generate the corresponding JavaScript files (.js) in the same directory.
 
 ### Project Structure
 This repository is organized as follows:
 
--${numbered}{Directory-Name} has both the TypeScript file and corresponding JavaScript source files
+-${number}{Directory-Name} has both the TypeScript file and corresponding JavaScript source files
 
-Resources used to learn
+### Resources used to learn
 1. [github repo](https://github.com/basarat/typescript-book) && [site](https://basarat.gitbook.io/typescript/)
 
 2. [w3schools](https://www.w3schools.com/typescript/typescript_tuples.php)
@@ -42,4 +42,6 @@ Resources used to learn
 
 5. [Dave Gray YouTube Video](https://youtu.be/gieEQFIfgYc?si=i_XzfnKBMajB40H7)
 
-5. [Programming with Mosh YouTube Video](https://youtu.be/d56mG7DezGs?si=tSwLyDx-EmUz7Jes)
+6. [Programming with Mosh YouTube Video](https://youtu.be/d56mG7DezGs?si=tSwLyDx-EmUz7Jes)
+
+7. [Ben Awad - React Typescript Tutorial](https://www.youtube.com/watch?v=Z5iWr6Srsj8)
