@@ -29,9 +29,7 @@ This will compile the TypeScript files (.ts) in the project and generate the cor
 ### Project Structure
 This repository is organized as follows:
 
-- `src/`: This directory contains the TypeScript source code files. You can write and edit your TypeScript code in this folder.
-
-- `dist/`: This directory contains the compiled JavaScript output files. After running `pnpm tsc`, you'll find the generated JavaScript files in this folder.
+-${numbered}{Directory-Name} has both the TypeScript file and corresponding JavaScript source files
 
 Resources used to learn
 1. [github repo](https://github.com/basarat/typescript-book) && [site](https://basarat.gitbook.io/typescript/)
