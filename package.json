@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "tsc": "tsc",
+    "start" : "tsc --watch",
     "build": "tsc -p .",
     "build:watch": "pnpm run build -- -w"
   },
