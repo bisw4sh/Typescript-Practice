@@ -1,11 +1,10 @@
 {
-  "name": "Typescript-Practice",
+  "name": "typescript-practice",
   "version": "1.0.0",
   "description": "",
   "scripts": {
     "start" : "tsc --watch",
-    "build": "tsc -p .",
-    "build:watch": "pnpm run build -- -w"
+    "build": "tsc -p ."
   },
   "keywords": ["typescript"],
   "author": "bisw4sh",
