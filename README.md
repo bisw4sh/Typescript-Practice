@@ -48,3 +48,25 @@ This repository is organized as follows:
 6. [Programming with Mosh YouTube Video](https://youtu.be/d56mG7DezGs?si=tSwLyDx-EmUz7Jes)
 
 7. [Ben Awad - React Typescript Tutorial](https://www.youtube.com/watch?v=Z5iWr6Srsj8)
+
+
+How:
+1.  Initialize project
+```js
+pnpm init
+``` 
+2.  Generate tsconfig.json
+```js
+script "tsc" : "tsc"
+pnpm exec tsc --init
+```
+
+3.  Transpile ts to js
+```js
+pnpm tsc <file_name.ts>
+```
+
+4. Continually watching the changes
+```js
+pnpm tsc <file_name.ts> --watch | pnpm tsc <file_name.ts> -w
+```
